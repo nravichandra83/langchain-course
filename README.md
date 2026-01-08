@@ -12,7 +12,13 @@ This course is designed to teach you how to QUICKLY harness the power of the Lan
 
 [![udemy](https://img.shields.io/badge/LangChain%20Udemy%20Course%20Coupon%20%2412.99-brightgreen)](https://www.udemy.com/course/langchain/?couponCode=DEC-2025)
 
+## My branch Structures - Ravi
 
+| Id | Branch  |
+|---------|------|
+|1| HelloWorld|
+|2|project/react-search-agent|
+|3|project/agent_oldways|
 
 ## 💡 What You'll Build 
 
