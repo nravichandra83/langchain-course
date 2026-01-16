@@ -15,10 +15,11 @@ This course is designed to teach you how to QUICKLY harness the power of the Lan
 ## My branch Structures - Ravi
 
 | Id | Branch  |
-|---------|------|
-|1| HelloWorld|
-|2|project/react-search-agent|
-|3|project/agent_oldways|
+|---------|------|---|
+|1| HelloWorld|basic program|
+|2|project/react-search-agent| Tavily Search Intro |
+|3|project/agent_oldways||
+|4|project/ReActAgent_and_ToolCalling|basic ReActAgent implementation and integration with function calling in tool_calling, straight fwd approach in tool_calling_with_ReAct |
 
 ## 💡 What You'll Build 
 
